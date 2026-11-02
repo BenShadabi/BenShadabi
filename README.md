@@ -12,14 +12,11 @@
 **Question:** where does a typical Canadian restaurant make and lose money, and how much would tighter labour, overhead and waste control change its profit?
 
 [![Dashboard](https://raw.githubusercontent.com/BenShadabi/canadian-restaurant-profitability-benchmark/main/assets/dashboard_page.png)](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/dashboard.html)
-
-| | |
-|---|---|
-| **Finding** | The average restaurant kept a 2.5% net margin in 2024 ($21,500 on $849,200). 42.3% lost money. |
-| **Scenario** | Labour -10%, overhead -15%, waste -20% (waste share assumed at 5%) takes profit from $21,500 to $68,169, a margin of 2.5% to 8.0%. A scenario, not a forecast. A conservative case on published cost lines only gives $48,549 (5.7%). |
-| **Method** | Statistics Canada and ISED data, SQL queries, Python charts, an Excel model, and a script that re-checks every headline number on each push. |
-| **Open** | [Dashboard](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/dashboard.html) · [Compare your restaurant](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/calculator.html) · [Stress test](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/stress.html) |
-| **Files** | [Excel workbook](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/data/Canadian_Restaurant_Benchmark.xlsx) · [SQL queries](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/sql/queries.sql) · [Methodology](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/docs/methodology.md) · [Repo](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark) |
+- **Finding:** The average restaurant kept a 2.5% net margin in 2024 ($21,500 on $849,200). 42.3% lost money.
+- **Scenario:** Labour -10%, overhead -15%, waste -20% (waste share assumed at 5%) takes profit from $21,500 to $68,169, a margin of 2.5% to 8.0%. A scenario, not a forecast. A conservative case on published cost lines only gives $48,549 (5.7%).
+- **Method:** Statistics Canada and ISED data, SQL queries, Python charts, an Excel model, and a script that re-checks every headline number on each push.
+- **Open:** [Dashboard](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/dashboard.html) · [Compare your restaurant](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/calculator.html) · [Stress test](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/stress.html)
+- **Files:** [Excel workbook](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/data/Canadian_Restaurant_Benchmark.xlsx) · [SQL queries](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/sql/queries.sql) · [Methodology](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark/blob/main/docs/methodology.md) · [Repo](https://github.com/BenShadabi/canadian-restaurant-profitability-benchmark)
 
 ---
 
@@ -30,11 +27,9 @@
 
 [![Metrics deck](https://raw.githubusercontent.com/BenShadabi/rockstar-gta-vi-search-analytics/main/docs/img/deck.gif)](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics)
 
-| | |
-|---|---|
-| **Metrics** | Four website objectives, a critical and a supporting metric each, formulas, and eight recommended actions. |
-| **A/B test** | A two-proportion z-test in Excel on 20,000 **simulated** users: 4.00% vs 5.20% click rate, z = 4.05. It shows the method, not a real result. |
-| **Files** | [Metrics deck (PDF)](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/docs/slides/Rockstar_Multiple_Outcome_Analysis.pdf) · [A/B deck (PDF)](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/docs/slides/GTA_VI_Banner_AB_Test.pdf) · [A/B Excel workbook](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/ab-test/GTA6_AB_Test.xlsx) · [Repo](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics) |
+- **Metrics:** Four website objectives, a critical and a supporting metric each, formulas, and eight recommended actions.
+- **A/B test:** A two-proportion z-test in Excel on 20,000 **simulated** users: 4.00% vs 5.20% click rate, z = 4.05. It shows the method, not a real result.
+- **Files:** [Metrics deck (PDF)](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/docs/slides/Rockstar_Multiple_Outcome_Analysis.pdf) · [A/B deck (PDF)](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/docs/slides/GTA_VI_Banner_AB_Test.pdf) · [A/B Excel workbook](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics/blob/main/ab-test/GTA6_AB_Test.xlsx) · [Repo](https://github.com/BenShadabi/rockstar-gta-vi-search-analytics)
 
 Independent class project, not affiliated with Rockstar Games or Take-Two. Public information only.
 
