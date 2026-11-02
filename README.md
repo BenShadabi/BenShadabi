@@ -12,6 +12,7 @@
 **Question:** where does a typical Canadian restaurant make and lose money, and how much would tighter labour, overhead and waste control change its profit?
 
 [![Dashboard](https://raw.githubusercontent.com/BenShadabi/canadian-restaurant-profitability-benchmark/main/assets/dashboard_page.png)](https://benshadabi.github.io/canadian-restaurant-profitability-benchmark/dashboard.html)
+
 - **Finding:** The average restaurant kept a 2.5% net margin in 2024 ($21,500 on $849,200). 42.3% lost money.
 - **Scenario:** Labour -10%, overhead -15%, waste -20% (waste share assumed at 5%) takes profit from $21,500 to $68,169, a margin of 2.5% to 8.0%. A scenario, not a forecast. A conservative case on published cost lines only gives $48,549 (5.7%).
 - **Method:** Statistics Canada and ISED data, SQL queries, Python charts, an Excel model, and a script that re-checks every headline number on each push.
